@@ -2,12 +2,9 @@
 
 CAN-COVID: An mobile app prototype designed on FIGMA. Intended to be used in COVID-19 response. Users can sign up to get help or volunteer by assisting users with pandemic needs. For instance buying groceries. User groups include: seniors, the disabled, and volunteers.
 
-# HCI-Assignment3
+
 
 Part 1 of CAN-COVID Prototype development. 
-
-An app designed to help Ontarians seeking help in the community and to volunteer in COVID-19 efforts.
-<hr>
 
 * Statistics for Canada and Ontario
 * Help Form
